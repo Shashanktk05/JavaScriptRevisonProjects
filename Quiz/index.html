@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <h1>Online Quiz</h1>
+    </div>
+
+    <div class="question-block" id="main">
+        <div class="qus">
+            <span id="id">1.</span><p id="qes"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus placeat nihil recusandae praesentium facere delectus laboriosam maxime, repellat aspernatur beatae, corporis eaque mollitia sunt nostrum.</p>
+            <p id="warn"></p>
+        </div>
+        <div class="option button">
+            <button id="one">Option one</button>
+            <button id="two">Option two</button>
+            <button id="three">Option three</button>
+            <button id="four">Option four</button>
+        </div>
+        <div class="down">
+            <button onclick="reset()">Reset</button>
+            <button  onclick="skip()">Skip</button>
+            <button  onclick="nextQuestion()">next</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

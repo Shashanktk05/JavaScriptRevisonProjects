@@ -47,13 +47,13 @@ Throughout this challenge, I'll be revising and practicing concepts such as:
 
 ## 📂 Projects
 
-| Day   | Project     | Concepts Practiced                                              | Status      |
-| ----- | ----------- | --------------------------------------------------------------- | ----------- |
-| Day 1 | Quiz App    | DOM Manipulation, Events, Arrays, Conditionals                  | ✅ Completed |
-| Day 2 | Weather App | Fetch API, Async/Await, JSON, DOM Manipulation, API Integration | ✅ Completed |
-| Day 3 | Coming Soon | -                                                               | ⏳           |
-| Day 4 | Coming Soon | -                                                               | ⏳           |
-| Day 5 | Coming Soon | -                                                               | ⏳           |
+| Day   | Project       | Concepts Practiced                                              | Status      |
+| ----- | ------------- | --------------------------------------------------------------- | ----------- |
+| Day 1 | Quiz App      | DOM Manipulation, Events, Arrays, Conditionals                  | ✅ Completed |
+| Day 2 | Weather App   | Fetch API, Async/Await, JSON, DOM Manipulation, API Integration | ✅ Completed |
+| Day 3 | To-Do List    | DOM Manipulation, Events, Arrays, Local Storage, CRUD Actions  | ✅ Completed |
+| Day 4 | Coming Soon   | -                                                               | ⏳           |
+| Day 5 | Coming Soon   | -                                                               | ⏳           |
 
 > This table will be updated as I complete each project.
 
@@ -79,6 +79,7 @@ This repository helps me:
 * CSS3
 * JavaScript (ES6+)
 * OpenWeather API
+* Local Storage
 
 ---
 
